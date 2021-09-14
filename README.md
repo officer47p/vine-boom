@@ -1,16 +1,6 @@
-# vine_boom
+# Vine Boom Player
 
-A new Flutter project.
+Well, I was going through Twitter and saw this tweet: https://twitter.com/FIREBORNSAP/status/1437706704209252359
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+So I decided to make it :)
+It wasn't a complicated app, just a simple app that plays the vine boom sound effect when the button gets pressed, simple!
